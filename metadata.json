@@ -1,0 +1,6 @@
+{
+  "name": "Campus Lost & Found Portal",
+  "description": "Full-stack university lost and found portal with automated item matchmaking, secure claim verification, campus desk locations, and recovery tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
